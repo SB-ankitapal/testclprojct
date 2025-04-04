@@ -1,0 +1,57 @@
+title: M1
+x-stoplight:
+  id: 0uzsp71jz9r16
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: wftx0dxlvlf04
+  email:
+    type: boolean
+    x-stoplight:
+      id: pvgv2idn64xor
+  address:
+    type: string
+    x-stoplight:
+      id: nxh7k8vbc6vw1
+  age:
+    type: number
+    x-stoplight:
+      id: t8edx3go1nkj9
+  location:
+    type: array
+    x-stoplight:
+      id: 3x70mxszw7lwc
+    items:
+      x-stoplight:
+        id: ag0hf1s6rndc4
+examples:
+  - id: id123
+    email: true
+    address: new address anewaddress#$%^456466
+    age: 25
+    location:
+      - test
+      - test3 test1
+  - id: id1234
+    email: true
+    address: new newnewnenwenwenew address anewaddress#$%^456466
+    age: 22
+    location:
+      - test
+      - test3 test1
+  - id: id3
+    email: true
+    address: new address anewaddress#$%^456466
+    age: 28
+    location:
+      - test
+      - test3 test1
+  - id: id1234
+    email: true
+    address: new address anewaddress#$%^456466
+    age: 34
+    location:
+      - test
+      - test3 test1
