@@ -9,3 +9,7 @@ properties:
     type: string
     x-stoplight:
       id: qy21jur5fhv77
+description: trt
+examples:
+  - id: string
+x-extension-1: null
