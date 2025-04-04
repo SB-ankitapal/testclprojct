@@ -1,0 +1,11 @@
+title: model
+x-stoplight:
+  id: 2amwrhyetkpd4
+x-tags:
+  - tag
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: qy21jur5fhv77
